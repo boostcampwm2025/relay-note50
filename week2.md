@@ -81,11 +81,9 @@
     > 
     > 🎬 let availableSize: [Int] = [1, 2, 4, 8, 16, 32]
     > → 《The Expandables: Memory Edition》
-    > 
     
     ---
     
-
 ## 퀘스트 개선 및 이유
 
 1.  “AI야, 개발 명언 줘!” -> 🧠 “AI야, 최신 AI 뉴스 줘!”
