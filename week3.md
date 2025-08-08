@@ -205,7 +205,7 @@
 
 <details>
 <summary>J237</summary>
-
+<img width="2050" height="896" alt="Image" src="https://github.com/user-attachments/assets/24a3b415-3a53-4f0c-999e-fbbfb6c54b5d" />
 </details>
 후기 : 이번 미션을 통해 단순히 뉴스를 소비하는 것이 아니라, 공유할 만한 가치가 있는 정보를 선별하고 전달하는 경험을 할 수 있었습니다. 각 언어의 변화가 개발자 경험에 어떤 영향을 줄지 고민해보며, 기술 뉴스도 소통의 출발점이 될 수 있다는 걸 느꼈습니다.앞으로도 트렌드를 더 능동적으로 받아들이고, 함께 나누는 연습을 해보고 싶어요.
 ---
