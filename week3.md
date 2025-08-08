@@ -191,8 +191,39 @@
 - **선정 퀘스트**: [퀘스트 1] - **🧠 “AI야, 개발자들이 좋아할만한 최신 뉴스 줘!”**
 - **선정 이유** : 슬랙에 과제에 대해서 유용한게 있으면 가끔 영상을 올리곤 했는데 이번에는 꼭 개발 관련이 아니더라도 챌린지 동료분들이 좋아할만한 정보를 찾아서 올려보고 싶었기 때문에 선택하게 되었습니다. 
 
-
+---
 
 
 # 퀘스트 진행
+
+<details>
+<summary>J189</summary>
+
+</details>
+
+---
+
+<details>
+<summary>J237</summary>
+
+</details>
+
+---
+
+<details>
+<summary>J282</summary>
+
+</details>
+
+---
+
+<details>
+<summary>K031</summary>
+
+<img width="945" height="487" alt="image" src="https://github.com/user-attachments/assets/9e97de3c-0308-4537-becb-94d1e5e55d63" />
+<img width="657" height="607" alt="image" src="https://github.com/user-attachments/assets/779fe93b-86d7-4642-b1fd-9b5d2336ef81" />
+
+</details>
+후기 : ai가 해준걸 그대로 올린 느낌이 강해서 별 반응을 얻지 못했다. 다음 부터는 ai를 활용하더라도 추가적인인 처리를 거쳐 좀 더 성의있어 보이도록 작성해야겠다.(뉴스에 대한 내용을 요약하거나 좀더 관심을 끌만한 주제를 preview)
+
 
